@@ -9,7 +9,9 @@ public class HELLO {
 System.out.println("haha");
 System.out.println("hah2");
 System.out.println("hah4");
-System.out.println("hah");
+System.out.println("hah5");
+System.out.println("hah6");
+System.out.println("hah6");
 	}
 
 }
